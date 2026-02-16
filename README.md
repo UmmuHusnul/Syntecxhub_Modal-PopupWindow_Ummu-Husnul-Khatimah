@@ -1,36 +1,41 @@
-# Project 1 - To-Do List App
+# Project 3 - Modal/Popup Window
 
-A simple, interactive To-Do List application built with HTML, CSS, and JavaScript.  
-This project helps users manage daily tasks efficiently with a clean, minimal, and responsive design.
+A modern Modal/Popup Window component built with HTML, CSS, and JavaScript. This project includes smooth animations, an overlay background, and interactive form handling.
 
 ---
+
 ## 📸 Preview
 
 <p align="center">
-  <img src="To-Do List.png" width="600">
+  <img src="Modal PopUp Widget.png" width="600">
 </p>
+
 ---
 
 ## 📌 Features
 
-- ➕ Add new tasks  
-- ✔ Mark tasks as completed  
-- 🗑 Delete tasks  
-- 💾 Save tasks automatically using LocalStorage  
-- 😀 Custom icons/emojis for actions  
-- ✨ Smooth animations and transitions  
-- 📱 Responsive layout (mobile & desktop friendly)  
+- 🖱 Open modal with button click  
+- ❌ Close modal via close button  
+- 🖱 Close modal by clicking outside (overlay)  
+- ⌨ Close modal using ESC key  
+- ✨ Smooth entry and exit animations  
+- 🌫 Overlay background effect  
+- 📱 Fully responsive layout  
+- ✅ Custom success alert after form submission  
 
 ---
 
 ## ⚙️ How It Works
 
-- Users type a task into the input field and click **Add**.
-- Each task includes:
-  - ✔ Complete button
-  - 🗑 Delete button
-- Completed tasks are visually styled differently.
-- All tasks are saved in the browser using **LocalStorage**, so they remain even after refreshing the page.
+- Clicking the **Open Modal** button displays the modal.
+- The modal appears with smooth scale and fade animation.
+- Users can close the modal by:
+  - Clicking the close icon
+  - Clicking outside the modal
+  - Pressing the ESC key
+- After submitting the form:
+  - The modal closes
+  - A custom success alert appears
 
 ---
 
@@ -38,14 +43,10 @@ This project helps users manage daily tasks efficiently with a clean, minimal, a
 
 - HTML5  
 - CSS3  
-- JavaScript 
-- LocalStorage API 
+- JavaScript (Vanilla JS)  
 
 ---
 
 ## 👩‍💻 Author
 
 Created by **Ummu Husnul**
-
-
-
