@@ -1,5 +1,7 @@
 # Project 1 - To-Do List App
 
+![Preview](To-Do List.png)
+
 A simple, interactive To-Do List application built with HTML, CSS, and JavaScript.  
 This project helps users manage daily tasks efficiently with a clean, minimal, and responsive design.
 
@@ -33,19 +35,11 @@ This project helps users manage daily tasks efficiently with a clean, minimal, a
 - HTML5  
 - CSS3  
 - JavaScript 
-- LocalStorage API  
-
----
-
-## 🚀 Purpose of This Project
-
-This project was created to practice:
-- LocalStorage usage
-- Responsive UI design
-- Basic front-end application logic
+- LocalStorage API 
 
 ---
 
 ## 👩‍💻 Author
 
 Created by **Ummu Husnul**
+
