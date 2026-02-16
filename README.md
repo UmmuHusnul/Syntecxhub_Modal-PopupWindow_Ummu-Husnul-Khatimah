@@ -41,8 +41,8 @@ A modern Modal/Popup Window component built with HTML, CSS, and JavaScript. This
 
 ## 🛠 Tech Stack
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS
 - JavaScript
 
 ---
@@ -50,4 +50,5 @@ A modern Modal/Popup Window component built with HTML, CSS, and JavaScript. This
 ## 👩‍💻 Author
 
 Created by **Ummu Husnul**
+
 
