@@ -43,10 +43,11 @@ A modern Modal/Popup Window component built with HTML, CSS, and JavaScript. This
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
+- JavaScript
 
 ---
 
 ## 👩‍💻 Author
 
 Created by **Ummu Husnul**
+
