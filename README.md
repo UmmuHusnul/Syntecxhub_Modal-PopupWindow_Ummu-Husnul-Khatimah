@@ -1,6 +1,7 @@
 # Project 1 - To-Do List App
 
-![Preview](To-Do List.png)
+## 📸 Preview
+![To-Do List Preview](To-Do List.png)
 
 A simple, interactive To-Do List application built with HTML, CSS, and JavaScript.  
 This project helps users manage daily tasks efficiently with a clean, minimal, and responsive design.
@@ -42,4 +43,5 @@ This project helps users manage daily tasks efficiently with a clean, minimal, a
 ## 👩‍💻 Author
 
 Created by **Ummu Husnul**
+
 
